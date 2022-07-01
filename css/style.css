@@ -46,3 +46,21 @@
 .cat3{
     background-image: linear-gradient(to right, #3c66ee 30%, #1337ff 100%);
 }
+
+.card{
+    margin-left: 10px;
+    box-shadow: 1px 1px 15px rgb(73, 72, 72);
+}
+
+#subscribe{
+    padding-top: 100px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+#subscribe h6{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+}
